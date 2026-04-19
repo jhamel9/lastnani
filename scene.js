@@ -98,8 +98,6 @@
         "screen 4": {
             title: "SYSTEM OVERVIEW",
             body: [
-                "Architecture: Three-Tier Design",
-                "",
                 "PRESENTATION LAYER (Templates)",
                 "• Landing • Auth • Dashboard • Editor",
                 "",
